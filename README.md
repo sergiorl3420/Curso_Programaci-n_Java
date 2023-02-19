@@ -4,4 +4,4 @@ En este repositorio subiré todos los ejercicios y ejemplos que propone el libro
 
 # NOTA
 Para este tema he necesitado realizar ejercicios adicionales para reforzar y terminar de entender las estructuras iterativas. Están todos ellos incluidos en el
-repositorio con la siguiente nomenclatura: Ejercicio_Adi_0X.
+repositorio con la siguiente nomenclatura: Ejercicio_Adi_XX.
